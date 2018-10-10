@@ -9,7 +9,7 @@ end
     song.artist = self
   end
 
-  def songs
-    @songs
+  def add_song(song)
+    song.artist = self
   end
 end
